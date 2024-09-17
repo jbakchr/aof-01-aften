@@ -3,3 +3,5 @@
 
 Eksekver dernæst dit program og se hvad der sker.
 """
+
+print("Hello World!")
